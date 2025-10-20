@@ -1,0 +1,2 @@
+# django-menimki
+heyat çetindi
